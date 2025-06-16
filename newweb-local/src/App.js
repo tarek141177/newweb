@@ -1,0 +1,1 @@
+function App() { return <div>مرحبا بك في طارق ويب</div>; } export default App;
